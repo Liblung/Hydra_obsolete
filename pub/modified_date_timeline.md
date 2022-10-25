@@ -5,6 +5,7 @@ permalink: /mdt
 ---
 
 ## Download Rates
+
 Time | Thing 
 --- | ---
 2016-02-23, 9:16:02 AM | ! Cremator (Source art, major time discrepancy)
@@ -61,7 +62,6 @@ Time: 5s | Contents: 14.8 MB (2.96 MB/s)
 
 Time | Thing 
 --- | ---
-2016-08-04 
 2016-08-07 9:10:28 | (( Antlion 2002 (orig) ))
 2016-08-07 9:29:13 | (( Antlion 2002 (fixed)
 Time:1s | Contents: 2.75 MB
