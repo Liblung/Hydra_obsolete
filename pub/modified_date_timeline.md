@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "PAGE-TITLE"
-permalink: /test
+layout: post
+title: "Modified Date Timeline"
+permalink: /mdt
 ---
 
 ## Download Rates
