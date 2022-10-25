@@ -1,3 +1,3 @@
-[title](https://liblung.github.io/hydra)
+[title](https://liblung.github.io/Hydra)
 
 test!
