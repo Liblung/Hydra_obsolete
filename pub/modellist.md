@@ -26,7 +26,7 @@ permalink: /modellist
 	color:DarkGoldenRod;
 }
 </style>
-I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. 
+I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. Where multiple releases have occurred, I place them top-to-bottom. This means more completed releases will generally be near the bottom.
 
 ![](Assets/models.png)
 
