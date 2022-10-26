@@ -9,7 +9,9 @@ permalink: /patch/
 
 What exactly did the first Anon-HL2 patch update? What can we infer from this, and what might have been replaced? 
 
-In the patch are files that replace, update or add prior files. We can't tell which - but we do know what was worked on. 
+In the patch are files that can replace, update or add files. We can't tell which - but we do still know what was worked on. 
+
+The timestamps begin at 11 pm on September 23, 2003, and ends at 7 am on September 27, 2003. This is in contrast to the prior leak which ranges from September 10 at 10 pm to September 22 at 1 am.
 
 Highlights: 
 * HL2, Studiomdl, WC, HLMV and other /bin/ exes were replaced. Perhaps the model format was updated?
