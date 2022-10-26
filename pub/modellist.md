@@ -19,8 +19,8 @@ Color guide:
 Name | Status
 --- | ---
 Airboat | <y>Source SDK</y>
-Alyx_XSI | ?????
-Antlion | <t> anon-hl2; HL2 </t> <br> <y> 2016 (2002 textures) </y>
+Alyx_XSI | <y> Partial source found</y>
+Antlion | <t> anon-hl2; HL2 </t> <br /> <y> 2016 (2002 textures) </y>
 Antlion_grub | <t> anon-hl2 </t>
 Antlion_Guard_XSI | <gr>Source SDK</gr> 
 Antlion_King | <o>2022</o>
