@@ -4,7 +4,28 @@ title: "What Models Do We Have?"
 date: 2020-02-02
 permalink: /modellist
 ---
-
+<style>
+.gr
+{
+	color:green !important;
+}
+.y
+{
+	color:yellow;
+}
+.o
+{
+	color:orange;
+}
+.r
+{
+	color:red;
+}
+.t
+{
+	color:teal;
+}
+</style>
 I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. 
 
 ![](Assets/models.png)
