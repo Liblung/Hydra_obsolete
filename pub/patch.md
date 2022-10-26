@@ -5,7 +5,7 @@ categories: CATEGORY-1 CATEGORY-2
 permalink: /patch
 ---
 
-[2022-10-26::01:19 pm]
+![](Assets/Untitled.png)
 
 What exactly did the first Anon-HL2 patch update? What can we infer from this, and what might have been replaced? 
 
