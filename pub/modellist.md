@@ -68,7 +68,7 @@ Gunship_XSI | <t> anon-hl2; HL2 </t>
 Headcrab_black_XSI | <t> anon-hl2; HL2 </t>
 Headcrab_Classic_XSI | <t> anon-hl2; HL2 </t>
 Headcrab_XSI | <t> anon-hl2; HL2 </t>
-Healthvial |  | <t> HL2 </t>
+Healthvial |  <t> HL2 </t>
 HEVSuit |  <t> anon-hl2; HL2 </t>
 hl2_logo | <t> anon-hl2 </t>
 Humans | <y> Source SDK </y> <br /> <y>Facepunch/VCC (+ commonbones.qci)</y> <br /> <y> Postal 3 (trimmed hl2) </y> <br /> <gr> 2022 (+ full ep2) </gr> 
