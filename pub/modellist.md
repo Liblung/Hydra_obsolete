@@ -43,13 +43,13 @@ Airboat | <span class="y">Source SDK</span>
 Alyx_XSI | <span class="y"> Partial source found</span>
 Antlion | <span class="t"> anon-hl2; HL2 </span> <br /> <span class="y"> 2016 (2002 textures) </span>
 Antlion_grub | <span class="t"> anon-hl2 </span>
-Antlion_Guard_XSI | <span class="gr">Source SDK</span> 
+Antlion_Guard_XSI | <span class="y">Source SDK</span> 
 Antlion_King | <span class="o">2022</span>
-Antlion_roller | <span class="y">2016/2017</span> <br /> <span class="y"> 2022 </span> 
+Antlion_roller | <span class="y">2016/2017 (textures, unproven at the time)</span> <br /> <span class="y"> 2022 (model source) </span> 
 Attack_Helicopter | <span class="t"> HL2 </span>
-Barnacle_XSI | <span class="t"> HL2 </span>
+Barnacle_XSI | <span class="t"> HL2 </span> 
 Birther | <span class="o">2022 </span>
-Blackout | <span class="r"> Unknown </span>
+Blackout | <span class="t"> HL2 </span>
 bonetest | <span class="r"> Unknown </span>
 Breeder | <span class="o">2022 </span>
 Breen | <span class="t"> anon-hl2; HL2 </span>
@@ -79,6 +79,7 @@ Cremator | <span class="y"> 2016/2017 </span>
 Crow_XSI | <span class="t"> anon-hl2; HL2 </span>
 Combine_Speakers | <span class="r"> Unknown </span>
 Dog | <span class="t"> anon-hl2; HL2 </span>
+extras | <span class="o"> anon-hl2, it's unknown if there are others added later</t>
 Eli_XSI | <span class="y"> 2022 (+ eli_podbody with missing elements)
 env_headcrabcanister | <span class="t"> HL2 </span>
 Generic Male Motion Capture | <span class="r"> Unknown </span>
@@ -99,9 +100,9 @@ Jetski | <span class="t"> anon-hl2 </span>
 Kentest | <span class="r"> Unknown </span>
 kitty | <span class="o"> 3 images available. </span>
 Kleiner_XSI | <span class="t"> anon-hl2; HL2 </span>
-Leech |  <span class="t"> HL2 </span>
-Lightstalk | <span class="r"> Unknown </span>
-manhack | 
+Leech |  <span class="t"> HL2, high quality render available in Raising The Bar</span>
+Lightstalk | <span class="t"> anon-hl2; HL2 </span>
+manhack | <span class="t"> anon-hl2; HL2 </span> <br /> <span class="y"> 2022, 2 textures </span>
 Missile_Defense | <span class="t"> anon-hl2; HL2 </span>
 Monk_XSI | <span class="t"> anon-hl2; HL2 </span>
 MortarSynth | <span class="t"> anon-hl2; HL2 </span>
@@ -109,8 +110,8 @@ Odessa | <span class="t"> HL2 </span>
 PerfTest | <span class="t"> anon-hl2; HL2 </span>
 Pigeon | <span class="t"> anon-hl2; HL2 </span>
 Player | <span class="y"> Source SDK </span> <br /> <span class="y"> Gmod Animations </span>
-Police_XSI | <span class="y"> Source SDK </span> <br /> <span class="gr">2016/2017</span> + <span class="y"> ElitePolice textures <span class="y"> 
-Rat_XSI | <span class="t"> anon-hl2; HL2 </span>
+Police_XSI | <span class="y"> Source SDK </span> <br /> <span class="gr">2016/2017</span> + <span class="t"> ElitePolice textures </span> 
+Rat_XSI | <span class="t"> anon-hl2; HL2, </span> <br /> <span class="o"> Further animations shown in D. Jenson portfolio </span> 
 Roller_XSI | <span class="t"> anon-hl2; HL2 </span>
 SandBarnacle | <span class="t"> anon-hl2 </span>
 Seagull | <span class="t"> HL2 </span>
@@ -125,7 +126,7 @@ Synth  | <span class="t"> anon-hl2; HL2 </span>
 Vortigaunt_XSI | <span class="t"> anon-hl2; HL2 </span>
 Wasteland_Scanner | <span class="t"> anon-hl2 </span>
 Worker | <span class="t"> anon-hl2 </span>
-Zombie_Assassin | <span class="y"> 2022 </span> 
+Zombie_Assassin | <span class="y"> 2022 (textures) </span> 
 Zombie_Classic_XSI | <span class="y"> Gmod Animations </span>
 Zombie_Fast | <span class="t"> anon-hl2; HL2 </span>
 Zombie_Poison | <span class="t"> anon-hl2; HL2 </span>
