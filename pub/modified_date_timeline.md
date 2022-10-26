@@ -111,3 +111,82 @@ Time: 1m3s | Contents: 14.6 MB (0.23 MB/s)
 2017-03-24 5:46:52 | (( EP1 EP2 Mappack
 Time: 20m19s | Contents: 1.22 GB (1.02 MB/s)
 2017-03-24 6:07:11 | ))
+
+## Oddities
+
+
+### Bullsquid
+
+While all of the model files are dated 8/16, the art is dated 8/22.  
+
+### Cremator
+
+There is a gap of two and a half minutes between the cremator's model sources and the Source Art of the cremator gun. This alongside the low download rate and various gaps implies this source was heavily trimmed. 
+
+### Elite Metrocop Compiled
+
+Timestamps are inconsistent.
+
+/materials/
+
+![](Assets/Pasted%20image%2020221025184828.png)
+
+/models/
+
+![](Assets/Pasted%20image%2020221025184904.png)
+
+### Facemap Sources
+
+![](Assets/Pasted%20image%2020221025184348.png)
+
+The files released are split by gender. This is congruous with the newly released /Humans/ source files, which duplicate them.
+
+If we take out the gap, the new rate is 25.5 MB/s. The gap between these two sections is implied to be ~408 MB. 
+
+### Half-Life 2 Mapsources
+
+There are two sets of timestamps: 20 seconds and 40 seconds. 
+
+In 40 seconds is:
+* All background maps
+* d1_canals_01
+* d1_canals_02
+* d1_canals_03
+* All of d2_prison
+* d3_c17_01 to d3_c17_08
+
+In 20 seconds is the rest. 
+
+Do you spot a pattern? 
+
+### Ministrider
+
+Major gap between Ministrider's source art and the normal files. Without it, the download rate increases to 0.31 MB
+
+### Police_XSI
+
+There are gaps in timestamp usage in the files. 
+
+Time (MM:SS) | Used by
+--- | ---
+16:16 - 16:42 | Base folder
+16:42 - 17:05 | **GAP!**
+17:05 | Base folder
+17:05-17:25 | **GAP!**
+17:30 | Cheaple
+17:30 - 17:38 | **GAP!**
+17:38 - 17:58 | Scripted sequences
+17:58 | Source art
+17:58 - 18:01 | Base folder
+18:01 - 18:50 | **GAP!**
+18:50 - 18:54 | Source art
+
+The textures in Source Art are in two separate chunks with a gap of a minute. The selection indicates the separation.
+
+![](Assets/Pasted%20image%2020221025185722.png)
+
+In the base directory, the timestamps' order doesn't fully correspond alphabetically. Exceptions to it are pictured:
+
+![](Assets/Pasted%20image%2020221025185503.png)
+
+
