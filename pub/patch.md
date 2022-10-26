@@ -2,7 +2,7 @@
 layout: post
 title: "anon-hl2's Patch"
 categories: CATEGORY-1 CATEGORY-2
-permalink: /patch/
+permalink: /patch
 ---
 
 [2022-10-26::01:19 pm]
