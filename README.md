@@ -1,7 +1,3 @@
----
-layout: default
-title: Blog
----
 
 [title](https://liblung.github.io/Hydra)
 
