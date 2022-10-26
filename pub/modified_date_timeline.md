@@ -6,6 +6,12 @@ permalink: /mdt
 
 ## Download Rates
 
+This is intended to serve as a reference for file dates in 2016 files, and to contain interesting observations into their "download rate". 
+
+Many released files contain differing times on their Last Modified dates, between when the computer starts downloading (, moving, etc) the files and when it finishes. By observing the ratio of the amount of time it took to complete to the size of the files, we can determine a "download speed". If we put files of the same day  together and assume they are excerpts of a collection, we can estimate the size of the files in between these released files. If the collection was continuously downloaded, then the time between between our excerpts indicates the size of the files between them.
+
+Further, observe differences in the mentioned download rate. The slower they are indicates possible tampering - files were removed and the dates between thus had less "stuff". This can be used to indicate sources, and possibly implies differences in how these files were originally obtained. 
+
 Time | Thing 
 --- | ---
 2016-02-23, 9:16:02 AM | ! Cremator (Source art, major time discrepancy)
