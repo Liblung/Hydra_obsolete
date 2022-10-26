@@ -8,7 +8,7 @@ categories: CATEGORY-1 CATEGORY-2
 
 What exactly did the first Anon-HL2 patch update? What can we infer from this, and what might have been replaced? 
 
-In the patch are files that replace, update or add prior files. Whichever I choose might not be what I think they are.
+In the patch are files that replace, update or add prior files. We can't tell which - but we do know what was worked on. 
 
 * HL2, Studiomdl, WC, HLMV and other /bin/ exes were replaced. Perhaps the model format was updated?
 * Texture compilation perl scripts, as well as the VTF converter were updated.
