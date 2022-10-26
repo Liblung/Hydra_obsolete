@@ -20,7 +20,7 @@ Name | Status
 --- | ---
 Airboat | <b>Source SDK</b>
 Alyx_XSI |  <div class="blue"> Partial source found </div>
-Antlion |  anon-hl2; HL2    2016 (2002 textures) 
+Antlion |  <span> anon-hl2; HL2    2016 (2002 textures) </span>
 Antlion_grub |  anon-hl2 
 Antlion_Guard_XSI | Source SDK 
 Antlion_King | 2022
