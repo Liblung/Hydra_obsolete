@@ -10,18 +10,18 @@ What exactly did the first Anon-HL2 patch update? What can we infer from this, a
 
 In the patch are files that replace, update or add prior files. We can't tell which - but we do know what was worked on. 
 
+Highlights: 
 * HL2, Studiomdl, WC, HLMV and other /bin/ exes were replaced. Perhaps the model format was updated?
-* Texture compilation perl scripts, as well as the VTF converter were updated.
 * A new set of perftest textures, a perftest skybox, a script for testing, and a new map called "perftestb" were added in.
 * Some textures in Building_Template. 
 * The poison headcrab has a new set of textures. Preexisting heightmaps in the Poison Zombie's folder imply these are updates.
-* The poison zombie's sheet has a new texture. 
+* The poison zombie's sheet has a new texture. This may have replaced the one used in the prior render.
+* The buggy now has textures for an ammo box. 
 * Some textures in Concrete. Specifically, concretefloor019a and concretefloor028.
 * "prop.vtf" was modified for the Combine Gunship. It's the propeller on the back. The E3 2003 version of it doesn't appear much different.
-* 2 early infinite ammo crates were added for "bullets " and "rockets". 
-* The placeholder texture for the "ammo" rebel citizens is added. The facemaps for Art and Eric also. 
+* 2 early infinite ammo crates were added for "bullets" and "rockets". 
+* The placeholder texture for the "ammo" rebel citizens is added. The facemaps for Art and Eric also, and their models were modified. 
 * The skybox sky_c17_04 was updated, alongside sky_perf01. 
-* Updates were made to various sections of the game - these will be categorized by the map series. 
 
 ## Texture Additions
 * Building_Template\Building_Skybridge_Template001[a-c].vtf
