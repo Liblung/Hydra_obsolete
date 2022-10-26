@@ -4,12 +4,6 @@ title: "What Models Do We Have?"
 date: 2020-02-02
 permalink: /modellist
 ---
----
-layout: post
-title: "What Models Do We Have?"
-date: 2020-02-02
-permalink: /modellist
----
 
 I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. 
 
