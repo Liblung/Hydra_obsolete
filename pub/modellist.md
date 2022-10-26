@@ -11,19 +11,19 @@ permalink: /modellist
 }
 .y
 {
-	color:yellow;
+	color:DodgerBlue;
 }
 .o
 {
-	color:orange;
+	color:Coral;
 }
 .r
 {
-	color:red;
+	color:Crimson;
 }
 .t
 {
-	color:teal;
+	color:DarkGoldenRod;
 }
 </style>
 I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. 
