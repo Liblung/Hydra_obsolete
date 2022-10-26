@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: Blog
 ---
+
 [title](https://liblung.github.io/Hydra)
 
 <h1>Latest Posts</h1>
