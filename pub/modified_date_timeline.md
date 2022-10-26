@@ -6,11 +6,15 @@ permalink: /mdt
 
 ## Download Rates
 
-This is intended to serve as a reference for file dates in 2016 files, and to contain interesting observations into their "download rate". 
+This is intended to serve as a reference for file dates in the Facepunch/VCC leak era files, and to contain interesting observations into their "download rate". 
 
-Many released files contain differing times on their Last Modified dates, between when the computer starts downloading (, moving, etc) the files and when it finishes. By observing the ratio of the amount of time it took to complete to the size of the files, we can determine a "download speed". If we put files of the same day  together and assume they are excerpts of a collection, we can estimate the size of the files in between these released files. If the collection was continuously downloaded, then the time between between our excerpts indicates the size of the files between them.
+Many released files contain differing times on their Last Modified dates, between when the computer starts downloading (, moving, etc; when the computer finishes writing, it always uses the current time) the files and when it finishes. By observing the ratio of the amount of time it took to complete to the size of the files, we can determine a "download rate". If we put files of the same day together and assume they are excerpts of a collection, we can estimate the size of the files in between these released files. IF the collection was continuously downloaded, then the time between between our excerpts indicates the size of the files between them. Unique circumstances, such as specific inferences (da repo!) and the oddly internally-consistent dates between separate releases contribute to this being a sensible approach. 
 
-Further, observe differences in the mentioned download rate. The slower they are indicates possible tampering - files were removed and the dates between thus had less "stuff". This can be used to indicate sources, and possibly implies differences in how these files were originally obtained. 
+Further, observe differences in the mentioned download rate. The slower they are indicates possible tampering with the sourcees - files were removed and the dates on the files were still preserved - thus less files per second. This can be used to indicate sources, and implies differences in how these files were originally obtained. 
+
+Only to-the-second precision was used for the math. Smaller files are more likely to be inaccurate representations of the download rate, while larger ones will be less affected. 
+
+Times are indicated in YYYY-MM-DD, HH-MM-SS. (( indicates the earliest file in the release, while )) the last. (( )) means the file has uniform timestamps. 
 
 Time | Thing 
 --- | ---
