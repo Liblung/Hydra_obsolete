@@ -30,6 +30,8 @@ I'll constrain the scope here to HL2's modelsources - there is more than this, b
 
 ![](Assets/models.png)
 
+[Gmod animations](https://github.com/robotboy655/gmod-animations) can be found here.
+
 Color guide: 
 * <span class="gr"> Fully available (according to my knowledge). </span>
 * <span class="y">Incomplete sources available. </span>
