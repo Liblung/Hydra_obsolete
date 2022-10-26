@@ -77,6 +77,7 @@ Highlights:
 * props_junk\TrashDumpster02.mdl
 * ShaderTest\envballs.mdl
 ## Misc Additions
+
 ```
 hl2\scenes\npc\citizen
 hl2\scenes\npc\citizen\abouttime01.vcd
@@ -90,9 +91,11 @@ hl2\scripts\vehicles\jeep_test.txt
 XSI\Models
 XSI\Models\CharacterStudioGuide_Sym.emdl
 ```
+
 ## Chapter Additions
 
 ### Trainstation
+
 ```
 hl2\maps\d1_trainstation_05.bsp
 
@@ -101,7 +104,9 @@ hl2\scenes\k_lab\teleport01a.vcd
 hl2\scenes\k_lab\teleport01b.vcd
 hl2\scenes\k_lab\teleport02a.vcd
 ```
+
 ### Canals
+
 ```
 hl2\maps\d1_canals_01.bsp
 hl2\maps\d1_canals_02.bsp
@@ -257,6 +262,7 @@ hl2\sound\vo\eli_lab\vort_taken.wav
 ```
 
 ### Coast
+
 ```
 hl2\maps\d2_coast_01.bsp
 hl2\maps\d2_coast_02.bsp
@@ -295,10 +301,13 @@ hl2\scripts\game_sounds_coast.txt
 hl2\scripts\game_sounds_eli_lab.txt
 ```
 ### Nova Prospekt
+
 ```
 hl2\scenes\novaprospekt\conference01.vcd
 ```
+
 ### C17
+
 ```
 hl2\maps\d3_c17_04.bsp
 hl2\maps\d3_c17_05.bsp
@@ -455,11 +464,9 @@ hl2\scripts\game_sounds_citizen.txt
 hl2\scripts\game_sounds_streetwar.txt
 ```
 
-
-
 ## Original Change List (trimmed)
-```
 
+```
 hl2.dat
 hl2.exe
 bin\base.fgd
@@ -2008,5 +2015,5 @@ hl2\testscripts\perftests.vtest
 
 XSI\Models
 XSI\Models\CharacterStudioGuide_Sym.emdl
-
+```
 
