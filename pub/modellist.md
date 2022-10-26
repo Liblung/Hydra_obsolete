@@ -7,7 +7,7 @@ permalink: /modellist
 
 I'll constrain the scope here to HL2's modelsources - there is more than this, but there is no clearer case where we know what we don't have. 
 
-![](models.png)
+![](Assets/models.png)
 
 Color guide: 
 * <span class="gr"> Fully available (according to my knowledge). </span>
