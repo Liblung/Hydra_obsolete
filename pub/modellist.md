@@ -103,8 +103,8 @@ Sentry_Guns |  anon-hl2
 ShaderTest |  anon-hl2; HL2 
 Shield_Scanner |  anon-hl2; HL2 
 Ship_Tentacle |  Possible texture included with cbine 
-soldier_stripped |  |  anon-hl2; HL2 
-Stalker |  |  HL2 
+soldier_stripped |   anon-hl2; HL2 
+Stalker |   HL2 
 Suit_Charger  |  anon-hl2; HL2 
 Synth  |  anon-hl2; HL2 
 Vortigaunt_XSI |  anon-hl2; HL2 
