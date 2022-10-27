@@ -3,7 +3,6 @@ layout: post
 permalink: /skybox
 title: "The Skybox Leak"
 date: 2020-02-02
-categories: CATEGORY-1 CATEGORY-2
 ---
 
 In Crazybubba's release of the 2016 assets, he (perhaps unintentionally) had files that the public didn't at the time. There were two different instances of this:
@@ -23,3 +22,7 @@ sky_c17_04 (Leak) | ![](Assets/sky_c17_04bk_1.png) | ![](Assets/sky_c17_04rt_1.p
 sky_c17_09 (2016/2017) | ![](Assets/sky_c17_09bk_1.png) | ![](Assets/sky_c17_09rt_1.png) | ![](Assets/sky_c17_09ft_1%201.png) | ![](Assets/sky_c17_09lf_1.png) | ![](Assets/sky_c17_09up_1.png)
 sky_c17_10 (2016/2017) | ![](Assets/sky_c17_10bk_1.png) | ![](Assets/sky_c17_10rt_1.png) | ![](Assets/sky_c17_10ft_1.png) | ![](Assets/sky_c17_10lf_1.png) | ![](Assets/sky_c17_10up_1.png)
 sky_c17_13 (2016/2017) | ![](Assets/sky_c17_13bk_1.png) | ![](Assets/sky_c17_13rt_1.png) | ![](Assets/sky_c17_13ft_1.png) | ![](Assets/sky_c17_13lf_1.png) | ![](Assets/sky_c17_13up_1.png)
+
+sky_c17_13 can't be traced to any skyboxes in the Leak. 
+
+sky_c17_10ft and sky_c17_10rt share a black, aliased shape in the horizon. This is painted over but visible in sky_c17_13.
