@@ -17,7 +17,7 @@ Released skyboxes identical to Leak ones have been omitted.
 Info | BK | RT | FT | LF | UP
 --- | --- | --- | --- | --- | ---
 sky_c17_02 (Leak) | ![](Assets/sky_c17_02bk_1.png) | ![](Assets/sky_c17_02rt_1.png) | ![](Assets/sky_c17_02ft_1%201.png) | ![](Assets/sky_c17_02lf_1.png) | ![](Assets/sky_c17_02up_1.png)
-sky_c17_02 (2016/2017) <br> also known as sky_c17_06. | ![](Assets/sky_c17_02bk_result.png) | ![](Assets/sky_c17_02rt_result.png) | ![](Assets/sky_c17_02ft_result.png) | ![](Assets/sky_c17_02lf_result.png) | ![](Assets/sky_c17_02up_result.png)
+sky_c17_02.tga (2016/2017) <br> released also as sky_c17_06.vtf  | ![](Assets/sky_c17_02bk_result.png) | ![](Assets/sky_c17_02rt_result.png) | ![](Assets/sky_c17_02ft_result.png) | ![](Assets/sky_c17_02lf_result.png) | ![](Assets/sky_c17_02up_result.png)
 sky_c17_04 (Leak) | ![](Assets/sky_c17_04bk_1.png) | ![](Assets/sky_c17_04rt_1.png) | ![](Assets/sky_c17_04ft_1.png) | ![](Assets/sky_c17_05lf_1.png) | ![](Assets/sky_c17_04up_1.png)
 sky_c17_09 (2016/2017) | ![](Assets/sky_c17_09bk_1.png) | ![](Assets/sky_c17_09rt_1.png) | ![](Assets/sky_c17_09ft_1%201.png) | ![](Assets/sky_c17_09lf_1.png) | ![](Assets/sky_c17_09up_1.png)
 sky_c17_10 (2016/2017) | ![](Assets/sky_c17_10bk_1.png) | ![](Assets/sky_c17_10rt_1.png) | ![](Assets/sky_c17_10ft_1.png) | ![](Assets/sky_c17_10lf_1.png) | ![](Assets/sky_c17_10up_1.png)
