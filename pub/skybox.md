@@ -1,5 +1,6 @@
 ---
-layout: skybox
+layout: post
+permalink:/skybox
 title: "The Skybox Leak"
 date: 2020-02-02
 categories: CATEGORY-1 CATEGORY-2
