@@ -6,7 +6,7 @@ permalink: /screens
 
 ## Examples
 
-The accuracy of recreations is constrained precisely by the ability to verify their accuracy. Older Half-Life 2 screenshots are a useful resource for finding little details that are different, which would never be prominent enough to be discovered otherwise. These details reveal differences prominently, and pave the way for better quality recreations. Some examples:
+The accuracy of recreations is constrained precisely by the ability to verify their accuracy. Older Half-Life 2 screenshots are a useful resource for finding little details that are different, which would never be prominent enough to be discovered otherwise. This paves the way for better quality recreations. Some examples:
 
 ![](Assets/hltv.gif)
 ![](Assets/soldiers2.gif)
