@@ -39,9 +39,10 @@ Valve's screenshots use both <code>fov 75</code> and <code>fov 90</code>. If you
 
 An important aspect of getting the alignment right is being able to increase your precision of movement as you get it closer. These commands are important for it:
 
-* sv_noclipaccelerate
 * sv_noclipspeed
 * sensitivity
+
+For further degrees of freedom in movement, you might want to <code>bind</code> a key to <code>+moveup</code> and <code>+movedown</code>. This allows you to adjust your vertical position without 
 
 It's easy to get myopically focused on comparing one area of the screenshot. Avoid this! If you are looking at one area, it's easy to let another slip. Try to get 3 or so different areas across the screenshot roughly there. Then, you can perfect one, perfect the other, fix any issues with the first, and repeat this for the third.
 
@@ -52,6 +53,8 @@ There is never perfect perfection, but if you can get it to the point where the 
 Before you finish, type <code>getpos</code> to save your position. If you're feeling nice, bundle it with your comparison to make it easier for succeeding users to get back where you were. 
 
 ### To GIF
+
+Paint.NET: (I've been using this)[https://forums.getpaint.net/topic/118869-gif-animations-and-images-filetype-plugin-gif-agif-latest-v15-2021-11-16/]. I set the "Delay" to 500 when saving, and set the loops to 0 (why should it stop animating?). This maintains the limitation of the 256 color palette, but is still useful.
 
 I use ezgif.com. Put both of the parallel screenshots together and then set the "Delay" to 50. Feel free to suggest something better. I prefer there be no blending frames between the two screenshots, because it makes it more difficult to spot differences.
 
@@ -64,5 +67,9 @@ d1_borealis_01_full (noclip, 1024x768): setpos 540.532837 -157.764374 -198.18423
 soldiers (noclip, 1024x768): d3_borealis_05: setpos 474.040497 352.175690 -231.272766;setang -5.733209 220.825195 0.000001
 
 zombie (2048x1536): d3_borealis_05_005: setpos 609.607422 102.029625 -255.968750;setang -6.403040 194.886475 -0.000071
+
+brown comboner c1a3a_port: fov 90; setpos -867.965271 -1092.916748 288.031250;setang 37.437645 160.565186 0.000000
+
+valvetime c1a3a_port (noclip): fov 90; setpos -334.547333 -2934.202881 309.520599;setang 29.903189 288.775635 0.000000
 
 [^1]: This needs to be specified in the launch options.
